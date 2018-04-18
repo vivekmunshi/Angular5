@@ -5,6 +5,8 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
 })
+
+// //Logics
 export class AppComponent {
-  title = 'app';
+  title = 'Food Blog';
 }
